@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039940152994",
+    "firebase_url": "https://pencari-hewan.firebaseio.com",
+    "project_id": "pencari-hewan",
+    "storage_bucket": "pencari-hewan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039940152994:android:99b957bd888a3d4d23b1fb",
+        "android_client_info": {
+          "package_name": "com.example.projectakhirpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039940152994-1t0f71fuuhre3fgvs1627rgfs121m47o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectakhirpam",
+            "certificate_hash": "d7bc4c8ade0159113eb62bbf06b1525b75b71bea"
+          }
+        },
+        {
+          "client_id": "1039940152994-iutfki4vf68m8606f6e2m89rjdb3uu68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60c9HpFkEUuRn1KWAZvrpS2ZJhMvfpgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039940152994-iutfki4vf68m8606f6e2m89rjdb3uu68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

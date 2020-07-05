@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project Akhir PAM</string>
+    <string name="tambahData">Tambah Data</string>
+    <string name="list">List Data</string>
+    <string name="scanner">Scan QRCode</string>
+    <string name="judul">PET FINDER</string>
+    <string name="pemilik">Nama Pemilik</string>
+    <string name="nohp">No Handphone</string>
+    <string name="jenis">Jenis Hewan</string>
+    <string name="jeniskelamin">Jenis Kelamin</string>
+    <string name="warna">Warna Hewan</string>
+    <string name="umur">Umur</string>
+    <string name="hubungi">Hubungi Pemilik</string>
+    <string name="detil">Detail</string>
+    <string name="id">HewanID</string>
+    <string name="foto">Foto</string>
+    <string name="saveQR">Save QRCode</string>
+    <string name="saveData">Tambah Data</string>
+    <string name="scan">Scan</string>
+</resources>
